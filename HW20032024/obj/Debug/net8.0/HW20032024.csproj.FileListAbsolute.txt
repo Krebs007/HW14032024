@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\bin\Debug\net8.0\HW20032024.exe
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\bin\Debug\net8.0\HW20032024.deps.json
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\bin\Debug\net8.0\HW20032024.runtimeconfig.json
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\bin\Debug\net8.0\HW20032024.dll
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\bin\Debug\net8.0\HW20032024.pdb
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.AssemblyInfo.cs
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.sourcelink.json
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.dll
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\refint\HW20032024.dll
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.pdb
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\HW20032024.genruntimeconfig.cache
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\obj\Debug\net8.0\ref\HW20032024.dll

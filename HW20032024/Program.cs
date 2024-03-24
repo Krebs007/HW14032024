@@ -1,0 +1,26 @@
+﻿using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.Write("Введите значение m: ");
+        int m = int.Parse(Console.ReadLine());
+
+        Console.Write("Введите значение n: ");
+        int n = int.Parse(Console.ReadLine());
+
+        PrintNumbers(m, n);
+
+        Console.ReadLine();
+    }
+
+    static void PrintNumbers(int m, int n)
+    {
+        if (m <= n)
+        {
+            Console.WriteLine(m);
+            PrintNumbers(m + 1, n);
+        }
+    }
+}
