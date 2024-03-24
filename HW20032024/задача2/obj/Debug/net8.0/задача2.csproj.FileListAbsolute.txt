@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.AssemblyInfo.cs
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.sourcelink.json
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\bin\Debug\net8.0\задача2.exe
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\bin\Debug\net8.0\задача2.deps.json
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\bin\Debug\net8.0\задача2.runtimeconfig.json
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\bin\Debug\net8.0\задача2.dll
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\bin\Debug\net8.0\задача2.pdb
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.dll
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\refint\задача2.dll
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.pdb
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\задача2.genruntimeconfig.cache
+C:\Users\user\Documents\GEEKBRAINS\Introduction_to_programming_languages\HW20032024\задача2\obj\Debug\net8.0\ref\задача2.dll
